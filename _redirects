@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://cultura.netlify.com/* https://cultura.co.in/:splat 301!
